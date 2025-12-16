@@ -61,6 +61,7 @@ Os arquivos `.xlsx` simulam um Data Warehouse e são a fonte de dados para o das
 
 Este projeto é um portfólio de BI. Sugestões de melhorias no modelo de dados ou nas visualizações são bem-vindas.
 
+
 ## Autor
 
 **Miguel Mantoan Castellani**
